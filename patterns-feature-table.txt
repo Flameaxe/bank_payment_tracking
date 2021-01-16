@@ -1,0 +1,9 @@
+Команда – MySQL Queries
+Спостерігач – Email notifications
+Стратегія – Interchangeable databases
+Абстрактна фабрика – Database connection creation
+Одинак – Database connection, Container
+???Будівельник – Document formation
+???Фасад – Encapsulate all database interaction
+???Замісник – Optimize database connection
+???Декоратор – Notifications booster
