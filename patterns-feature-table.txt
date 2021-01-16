@@ -7,3 +7,4 @@
 ???Фасад – Encapsulate all database interaction
 ???Замісник – Optimize database connection
 ???Декоратор – Notifications booster
+Ланцюжок обов'язків – Log in
